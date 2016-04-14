@@ -1,0 +1,9 @@
+{
+  "name": "jabberwerx",
+  "version": "2.1.1.19913",
+  "license": "MIT",
+  "main": "./jabberwerx.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
